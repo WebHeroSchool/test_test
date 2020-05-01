@@ -1,0 +1,32 @@
+// неправильный комментарий
+
+.hEad {
+
+}
+
+
+
+/*нет пробелов в комментарии, это ошибка*/
+
+.wrap {
+
+  position: ;
+
+  display: block;
+
+}
+
+.main {color: aliceblue}
+
+.link {
+    color: aliceblue;
+
+    background: antiquewhite;
+  color: aqua;
+
+
+
+
+
+      position:relative;
+}
