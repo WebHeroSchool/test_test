@@ -1,4 +1,4 @@
-// неправильный комментарий
+// неправильный комментарий 
 
 .hEad {
 
@@ -19,14 +19,20 @@
 .main {color: aliceblue}
 
 .link {
-    color: aliceblue;
+    color: aliceblue; 
 
-    background: antiquewhite;
-  color: aqua;
+    background: antiquewhite; 
+  color: aqua; 
 
 
 
 
 
       position:relative;
+  position:relative;
 }
+
+  
+
+
+
